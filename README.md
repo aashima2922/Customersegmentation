@@ -4,7 +4,7 @@ Customer Segmentation on the basis of number of products and cancelled orders
 1. **Data Loading and Cleaning:**
    Data is loaded from a CSV file, and duplicate rows are removed. Separate categorical and numeric columns are identified.
 
-2.**Missing Values Handling:**
+2. **Missing Values Handling:**
    Missing values are checked, and rows with missing 'CustomerID' are dropped.
 
 3. **Customer-Level Aggregation:**
